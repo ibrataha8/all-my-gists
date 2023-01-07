@@ -1,0 +1,216 @@
+Suite :
+https://gist.github.com/ibrataha8/9293d9413e97c412a7f8acedffacf2ac
+https://gist.github.com/ibrataha8/359830fb59274afe0b48e0f0acd4a4cc
+https://gist.github.com/ibrataha8/f02238899e6940908d7aeca073079785
+https://gist.github.com/ibrataha8/72e1fc2a21931628f7ccffc88a27b35c
+https://gist.github.com/ibrataha8/fe97c8474bc205931328683a9a664daa
+https://gist.github.com/ibrataha8/1854aeef77169f9e1b52a467b1b8e6ba
+
+Nbre :
+https://gist.github.com/ibrataha8/89f3794ef1c462c345bfd6c2dd3ddb09
+https://gist.github.com/ibrataha8/cfa261667a9a6aa70f6d13160a88270b
+https://gist.github.com/ibrataha8/220e2950fdfd9dd1edd23bec4bba3ae4
+https://gist.github.com/ibrataha8/2c445754ed914a3d583d0669a566e54a
+https://gist.github.com/ibrataha8/7c4de823f56852453928fbd5c933d8a6
+https://gist.github.com/ibrataha8/f095a3c7fece111c1a6e3f063558c889
+https://gist.github.com/ibrataha8/6426c2f809cdcc01c615ee5f7287d615
+https://gist.github.com/ibrataha8/d092476084e9efab0bf957846987f7e5
+https://gist.github.com/ibrataha8/94ea2750750656b119b4e865f0d81a88
+https://gist.github.com/ibrataha8/f4fb7c77bac7a0ae29cea916a99bf49c
+https://gist.github.com/ibrataha8/eae8e3c95b6b6525eb1e51bd56ba7cc2
+https://gist.github.com/ibrataha8/f4d4a3a8187cdf74a1d66b31936cedef
+https://gist.github.com/ibrataha8/a17143506509afd498700767dddfc67b
+https://gist.github.com/ibrataha8/55c55bc540a046547c94faae869490ba
+https://gist.github.com/ibrataha8/e23dd4bfb65265fa7e54b630fc02494c
+https://gist.github.com/ibrataha8/a57acb4cb75740d3b7f489b58b17caa2
+
+File :
+https://gist.github.com/ibrataha8/e05805213b0b8b7aa46f69a4a2d74f8b
+https://gist.github.com/ibrataha8/69a03f19048395fb8bf357f739cb8547
+
+Tableau :
+https://gist.github.com/ibrataha8/f25bc6db2edc756da384b2e041930cbe
+https://gist.github.com/ibrataha8/9bffefda078f5b50d675e09f051869cb
+https://gist.github.com/ibrataha8/25017e374719faad262c958ead2f8618
+https://gist.github.com/ibrataha8/db63187fc1845a7f36d5d5554721d9a6
+https://gist.github.com/ibrataha8/f8def69052f57476946f3c79522caee0
+https://gist.github.com/ibrataha8/bc6f17cd260c23bbeb443e07b8922b1e
+https://gist.github.com/ibrataha8/a00b21d171308a754603a806b0c8f0c0
+https://gist.github.com/ibrataha8/a00b21d171308a754603a806b0c8f0c0
+https://gist.github.com/ibrataha8/52555737ed38bd3cb34d11e0f2866033
+https://gist.github.com/ibrataha8/3bb7591bf946ca39dea1f2390bd8015f
+https://gist.github.com/ibrataha8/2fd81c9f9d2cc04c514003c921774074
+https://gist.github.com/ibrataha8/7b244b56365c9003ec3d73fac91ac8be
+https://gist.github.com/ibrataha8/decac4e503383e2986243955f1c86cc8
+https://gist.github.com/ibrataha8/043e68e65fc60298e7d1613f1314cb67
+https://gist.github.com/ibrataha8/defb28bbf6057c5a408f7ffb2f5b9ae0
+https://gist.github.com/ibrataha8/c426135dd4dd2ae9a4e90b0d5857af42
+https://gist.github.com/ibrataha8/29d512538bac87ada389483671550730
+https://gist.github.com/ibrataha8/81291d1344e1892290331d5080291d3f
+https://gist.github.com/ibrataha8/30122db42293087af580338d0efc9deb
+https://gist.github.com/ibrataha8/463f177619ef5935ee5d1e18d763646b
+https://gist.github.com/ibrataha8/c1a1867a1cd8a20e73b660fe09a296ae
+https://gist.github.com/ibrataha8/e9a157a4a4cd6a9a518b8200e603d67f
+https://gist.github.com/ibrataha8/e2c45a7eb7f2873c3128b4f5b99a174b
+https://gist.github.com/ibrataha8/d92b29cfd98194957391275d5b46f23f
+https://gist.github.com/ibrataha8/f518a76155cb33bee60e1861cf90c1dd
+https://gist.github.com/ibrataha8/b115f4fdebf1525b6e7c21e4687df154
+https://gist.github.com/ibrataha8/f570bd70366f8c5977c29c70f1f657ae
+https://gist.github.com/ibrataha8/ae1096ffa3ce8aa8301d090938a26ae0
+https://gist.github.com/ibrataha8/7c2d8d3c15bc358111c9cc90783ec9cc
+https://gist.github.com/ibrataha8/5bad257813e6e20c04cc9982dcc261d2
+https://gist.github.com/ibrataha8/a1ca5e0599560a87c71005e251a8c07b
+https://gist.github.com/ibrataha8/7b7ec7e828aedc1a7423cd0ce9e04a92
+https://gist.github.com/ibrataha8/c8fc91ade9977bccdab7ffa31dc35a7c
+https://gist.github.com/ibrataha8/f289a3abc901cc019f85e8036adeda86
+https://gist.github.com/ibrataha8/7073e89e1a89e4a5ebac7acb1f954679
+https://gist.github.com/ibrataha8/ac4b4ee1def93ab5240a3b9b5bef0b01
+https://gist.github.com/ibrataha8/f7fec98f3dec8150491ad411a9525c6b
+https://gist.github.com/ibrataha8/5e72a2102b24278a20a42f31efb414f7
+https://gist.github.com/ibrataha8/35a8d02556cffadeced11c436006f15b
+https://gist.github.com/ibrataha8/d80ee54353752f097de5d32977544e21
+
+
+Moyenne :
+https://gist.github.com/ibrataha8/477c63e273db9070488f7687e90aafba
+https://gist.github.com/ibrataha8/a565d1fa4dff350bba85e1845017d20e
+https://gist.github.com/ibrataha8/4382699bf1e0f870c51a4243265c7f64
+https://gist.github.com/ibrataha8/48d17eb17c56671832d574c0b242f050
+https://gist.github.com/ibrataha8/8119f84d04a28ebe7a8898cbbffa91b7
+https://gist.github.com/ibrataha8/4486af49e9c9187360ff78491d74400b
+
+Dictionnary :
+https://gist.github.com/ibrataha8/9c0223fbc5546a49f5521605356c86ac
+https://gist.github.com/ibrataha8/0748dfd32343735a789784dd57846c13
+https://gist.github.com/ibrataha8/9c0223fbc5546a49f5521605356c86ac
+
+Programm:
+https://gist.github.com/ibrataha8/22b3b12aabdb16d832a9444b3cff32b2
+https://gist.github.com/ibrataha8/80bdfc1a5a00ccc749cb1cd8da350d7b
+https://gist.github.com/ibrataha8/4a9147b2da8d4c081f3df9d27b1d5118
+https://gist.github.com/ibrataha8/8a2091aea1db8e7196fdcaddc5724093
+https://gist.github.com/ibrataha8/031056caacf57dc0c9d676719caa0b7f
+https://gist.github.com/ibrataha8/8a32bb88239e76462fda23404b113be2
+https://gist.github.com/ibrataha8/aede76a57cf50dca8d4f4c170d4e2ff1
+https://gist.github.com/ibrataha8/b2e23ac4a252549953259a67ff9b46da
+
+
+Autre :
+https://gist.github.com/ibrataha8/f6bbc52b6df4149b17b8b7259053d675
+https://gist.github.com/ibrataha8/6bd186429d7f5008026f600634cc2f97
+https://gist.github.com/ibrataha8/6a70406b53963d9d0f65102162880ba1
+https://gist.github.com/ibrataha8/91e651239425a9fda2d1698cddc2fc11
+https://gist.github.com/ibrataha8/3254c919828345e7d4628376cc5540b9
+https://gist.github.com/ibrataha8/1935ddd3589b9c1cb094f2427ae5e421
+https://gist.github.com/ibrataha8/632247dca978f6a781df72663ff7bd23
+https://gist.github.com/ibrataha8/65efe2b996e768dabb906fdfb693a53c
+https://gist.github.com/ibrataha8/e8fc33b0c4cfb7d091785c8e8b60a4f7
+https://gist.github.com/ibrataha8/57a119e95c0a444448eada979ba98505
+https://gist.github.com/ibrataha8/0f8081f5d88fc1a5b99f03c60ce1e588
+https://gist.github.com/ibrataha8/7881e99ac1c2b3af41986df73611f177
+https://gist.github.com/ibrataha8/bcb5bd71c0cce8ec92625e0046b75c7c
+https://gist.github.com/ibrataha8/b62e1aada519a2f1a8f26aa594b489a8
+https://gist.github.com/ibrataha8/b0675b6c9c1d030744e361a305fd62ce
+https://gist.github.com/ibrataha8/ec531843efa113c181976026d561c4d9
+https://gist.github.com/ibrataha8/8eae7630f10c052775e2a28a1107e611
+https://gist.github.com/ibrataha8/51ce672293b7181c91f9368b04c39613
+
+
+comparaison :
+https://gist.github.com/ibrataha8/149e37aa02e4eb81228665053384cc22
+https://gist.github.com/ibrataha8/9f8c931743be7af2691f9cb7fff8280b
+https://gist.github.com/ibrataha8/78bd017a780c20fda07f6812bfef2725
+https://gist.github.com/ibrataha8/b2c6fb38fa5a2f155e7026489c384953
+https://gist.github.com/ibrataha8/d45568db53d7f2bf48aa4a223574fafb
+
+inverse :
+https://gist.github.com/ibrataha8/0004eb7b3bc4c7f31c0238aea1a7e551
+https://gist.github.com/ibrataha8/330093cd12bb096c871d85983b2aea90
+https://gist.github.com/ibrataha8/cbdc796379ab73fd5a355c8fc5378771
+https://gist.github.com/ibrataha8/84eef826f6332599c46796f21cb282b3
+https://gist.github.com/ibrataha8/b2afff63f941f12269a01ea8b4ae90fc
+https://gist.github.com/ibrataha8/454b1c2eccffb9527eb9a8e13abb3e1a
+https://gist.github.com/ibrataha8/735203efce258cd807e9817a16537bdc
+
+Triangle :
+https://gist.github.com/ibrataha8/683ed1066af7f0c2335a4f3cccb938c0
+https://gist.github.com/ibrataha8/2c1f5d2d5f11dd75d6de66308711982a
+https://gist.github.com/ibrataha8/7610c3b45d28242c540dcc63e8615a7e
+https://gist.github.com/ibrataha8/65b0742ec08937b00e2195142e2a8660
+https://gist.github.com/ibrataha8/55dbec707e7d6bb99a4caa49b008ddc7
+https://gist.github.com/ibrataha8/5f28adc33ef9b5937c5d6f31c99fbbf2
+https://gist.github.com/ibrataha8/eb7b1d584dfb32fb6c3f4c0af931bbff
+https://gist.github.com/ibrataha8/1f4ec46fdd446661874e82107ce97c3a
+https://gist.github.com/ibrataha8/111fe291dfba53dbdfa66d8680b60159
+https://gist.github.com/ibrataha8/a73f185e12279260b89640710dd12b7b
+
+No Work :
+https://gist.github.com/ibrataha8/ac77c4fd25db6c23fd4b636281518ee4
+
+
+Binaire to Décimal :
+https://gist.github.com/ibrataha8/61f923efb9a67545580ef370f8fdf5b7
+https://gist.github.com/ibrataha8/aabef5c24d62f7c698e139b28d9a269d
+https://gist.github.com/ibrataha8/2aadc444fe2871872ab0680f9de1e81d
+https://gist.github.com/ibrataha8/7b8b4f33456bab411cdf559640147845
+
+Calcul :
+https://gist.github.com/ibrataha8/85e38c3bc86c6cd03a6fbf2253b191ef
+https://gist.github.com/ibrataha8/381256ebc3aa19f5958e563f10a7382d
+https://gist.github.com/ibrataha8/034de86531e6109d79eb040773bbc4d8
+https://gist.github.com/ibrataha8/170b17992c8e1b084540ac9b7b04ae40
+https://gist.github.com/ibrataha8/b40ba3dd285cfdfcc675eb6052d6031e
+https://gist.github.com/ibrataha8/947e245069001b37a4536378bc0e8222
+https://gist.github.com/ibrataha8/c5eece26ebddaca51410a5e4a5713eaa
+https://gist.github.com/ibrataha8/81228abc7185f5cf43408840620299ae
+https://gist.github.com/ibrataha8/3a90e0b49836f77390eb57626c7ac4ca
+https://gist.github.com/ibrataha8/153144dcfc0d91e245b232462dacf6c2
+https://gist.github.com/ibrataha8/ee91d6106d7851e8529df36f4fad3443
+https://gist.github.com/ibrataha8/252d6163497b623f7ad15e8b64550442
+https://gist.github.com/ibrataha8/9b053bb3f034b511147eb5ffd5eacf59
+
+
+Add :
+https://gist.github.com/ibrataha8/92fe1747a4d508ad97bd4b56157ecdc8
+https://gist.github.com/ibrataha8/00efb7fa0988e46bc252d72f0ad8d5f3
+https://gist.github.com/ibrataha8/321c9121fe0c8f293c182646702518d2
+
+Révision :
+https://gist.github.com/ibrataha8/1a2a5fefba37592e3adad17ccb11c069
+
+Tri :
+https://gist.github.com/ibrataha8/91c9647b9456466c429fa0434cc88720
+https://gist.github.com/ibrataha8/e7e8f07bfbad046b1c6fb69c03215eb0
+https://gist.github.com/ibrataha8/6c90b7f3ab5b7b12381ec8806c856def
+
+factorille :
+https://gist.github.com/ibrataha8/96628622e5daf02fbdacc704aad9d9fb
+https://gist.github.com/ibrataha8/d2702f6559299e009520543a6f7d40dd
+https://gist.github.com/ibrataha8/535d4498ef1d0dbc0df9a8b46f2636de
+
+Pair Impair :
+https://gist.github.com/ibrataha8/b6a76914930c53ea80cc3446c85d4986
+https://gist.github.com/ibrataha8/162e9bdccb1978bd5a4ea144db54cbfb
+https://gist.github.com/ibrataha8/aad27b71786f531d0aa1e82041a6f73e
+https://gist.github.com/ibrataha8/363edfb59540e94158e9c39e8a9af631
+
+Tableau Multiplication :
+https://gist.github.com/ibrataha8/47180eb8551b6e706d768aed7f0c0c5f
+https://gist.github.com/ibrataha8/6ac4b3b6d901dfb933de6b6c8c319753
+https://gist.github.com/ibrataha8/62b05c081bf713a21a54cc81a55e2aaa
+
+Permutation :
+https://gist.github.com/ibrataha8/52d3ce53e08dc79ed6c97bd2d1dbc428
+
+PGCD :
+https://gist.github.com/ibrataha8/042ad17dae220d04dad37d94f9ce1cc8
+
+compteur :
+https://gist.github.com/ibrataha8/d776dbda64ef3825f8aa462df6e3f6b1
+
+Bassita:
+https://gist.github.com/ibrataha8/2d421cdda6ccdd7ff97a9a965e87f580
+https://gist.github.com/ibrataha8/65aa5a03a0010c244ca89c2ef3ddaec2
+
+équation :
+https://gist.github.com/ibrataha8/6045809d6b9cfc05e297947112da7e0c

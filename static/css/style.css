@@ -1,53 +1,14 @@
-
-summary{
+.sum{
     font-size: 16px;
     font-weight: bold;
-    color: rgb(95, 0, 0);
-    background-color: rgba(132, 171, 1, 0.68);
+    color: rgb(72, 0, 0);
+    background-color: rgb(223, 158, 60);
     padding: 8px 12px;
     border: 1px solid #ddd;
     border-radius: 4px;
     cursor: pointer;
     margin-bottom: 8px;
-    width: 100%;
-    text-align: center;
 }
 a{
     text-decoration: none;
-    color: rgba(0, 0, 0, 0.772);
-}
-.lii{
-    line-height: 35px;
-    text-align: center;
-    list-style-type: alpha-num;
-}
-summary:hover{
-    font-weight: bold;
-    color: rgb(0, 0, 0);
-    background-color: rgba(255, 0, 0, 0.68);
-}
-a:hover{
-    text-decoration: none;
-    color: rgba(255, 0, 0, 0.772);
-    background-color: rgb(114, 242, 114);
-}
-summary:active{
-    background-color: rgba(16, 107, 186, 0.68);
-}
-a:active{
-    background-color: gray;
-    color: black;
-}
-#add{
-    font-size: 20px;
-    background-color: rgb(243, 243, 243);
-    text-align: center;
-}
-.addtext{
-    color: rgb(255, 136, 0);
-
-}
-.addtext:hover{
-    background-color: red;
-    color: black;
 }
