@@ -8,5 +8,5 @@
  - `python manage.py migrate`
 
 ### screens: 
-![screen](.\screens\screen_0.jpg)
-![screen](.\screens\screen_1.jpg)
+![screen](https://raw.githubusercontent.com/ibrataha8/all-my-gists/main/screens/screen_0.jpg)
+![screen](https://raw.githubusercontent.com/ibrataha8/all-my-gists/main/screens/screen_1.jpg)
